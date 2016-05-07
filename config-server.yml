@@ -1,5 +1,4 @@
 #Config Server
----
 lucky-word: "Irish"
 test-server:
   name: "config-server"
